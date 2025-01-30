@@ -1,6 +1,6 @@
 # 🚀 7DaysOfCode - JavaScript  
 
-Este repositorio contiene mi progreso en el reto **7DaysOfCode**, donde practico y refuerzo mis conocimientos de **JavaScript** a través de distintos desafíos diarios.  
+Este repositorio contiene mi progreso en el reto **#7DaysOfCode**, donde practico y refuerzo mis conocimientos de **JavaScript** a través de distintos desafíos diarios.  
 
 ## 📌 Descripción  
 
@@ -25,4 +25,4 @@ Si deseas probar los desafíos en tu equipo:
 1. Clona este repositorio:  
 
    ```bash
-   git clone https://github.com/marisol161/7DaysOfCode-JS.git
+   git clone https://github.com/marisol161/7DaysOfCode.git
