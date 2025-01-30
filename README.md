@@ -27,6 +27,11 @@ Si deseas probar los desafíos en tu equipo:
    ```bash
    git clone https://github.com/marisol161/7DaysOfCode.git
 
+2. Accede a la carpeta del proyecto:  
+
+   ```bash
+   cd 7DaysOfCode
+
 ## 📚 Recursos útiles
 
 * [Documentación de JavaScript (MDN)](https://developer.mozilla.org/es/docs/Web/JavaScript)
