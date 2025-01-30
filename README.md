@@ -29,7 +29,7 @@ Si deseas probar los desafíos en tu equipo:
 
 ## 📚 Recursos útiles
 
-[Documentación de JavaScript (MDN)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+* [Documentación de JavaScript (MDN)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
 ## ✨ Contacto  
 
