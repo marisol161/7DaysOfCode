@@ -1,4 +1,4 @@
-# 🚀 7DaysOfCode - JavaScript  
+# 🚀 #7DaysOfCode - JavaScript  
 
 Este repositorio contiene mi progreso en el reto **#7DaysOfCode**, donde practico y refuerzo mis conocimientos de **JavaScript** a través de distintos desafíos diarios.  
 
