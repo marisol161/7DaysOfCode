@@ -26,3 +26,15 @@ Si deseas probar los desafíos en tu equipo:
 
    ```bash
    git clone https://github.com/marisol161/7DaysOfCode.git
+
+## 📚 Recursos útiles
+
+[Documentación de JavaScript (MDN)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+
+## ✨ Contacto  
+
+Si tienes sugerencias o quieres compartir tus soluciones, ¡será un gusto intercambiar ideas!  
+Puedes encontrarme en:  
+
+* [GitHub](https://github.com/marisol161)  
+* [LinkedIn](https://www.linkedin.com/in/marisol-rosaldo-dvjr)  
